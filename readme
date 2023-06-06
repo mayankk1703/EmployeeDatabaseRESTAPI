@@ -1,0 +1,4 @@
+First the sql scripts should be run to create a database and tables and to fill the table with some values
+Then we can run the app to perform the crud operations.
+I have also restricted access to URL's based on roles.
+This method takes use of spring Data JPA and spring Data REST to perform CRUD operations so we didn't had to implement the crud functions.
